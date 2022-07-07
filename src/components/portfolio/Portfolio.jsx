@@ -12,7 +12,7 @@ const data = [
   {
     id:2,
     image:IMG2,
-    title: 'website-for-applying-internship',
+    title: 'website-used-for-applying-internship',
     github: 'https://github.com/masti777'
   }
 ]

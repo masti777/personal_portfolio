@@ -16,7 +16,7 @@ const Experience = () => {
           <div>
           <h4>HTML</h4>
           <small className='text-light'>
-           Experienced
+          Intermediate
           </small>
           </div>
         </article>
@@ -63,7 +63,7 @@ const Experience = () => {
           <div>
           <h4>Node JS</h4>
           <small className='text-light'>
-          Intermediate
+          Basic
           </small>
           </div>
         </article>
@@ -71,7 +71,7 @@ const Experience = () => {
         <article className='experience__details'>
           <BsPatchCheckFill className='experience__details-icon' />
           <div>
-          <h4>MongoBD</h4>
+          <h4>MongoDB</h4>
           <small className='text-light'>
            Basic
           </small>
