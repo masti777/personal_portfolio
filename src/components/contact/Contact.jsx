@@ -29,14 +29,14 @@ const Contact = () => {
         <MdOutlineEmail className='contact_option-icon'  />
         <h4>Email</h4>
         <h5>mastitesfa444@gmail.com</h5>
-        <a href='mailto:mastitesfa444@gmail.com' target='_blank'>Send a message</a>
+        <a href='mailto:mastitesfa444@gmail.com' >Send a message</a>
       </article>
 
       <article className="contact__option">
         <FaTelegram className='contact_option-icon'/>
         <h4>Telegram</h4>
         <h5>@masti_777</h5>
-        <a href='https://t.me/masti_777'target='_blank'>Send a message</a>
+        <a href='https://t.me/masti_777'>Send a message</a>
       </article>
       </div>
         {/* END OF CONTACT OPTION */}
